@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/discovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gradle-plugin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/personal-info" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/profile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resume-builder-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resume-builder-mock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-management" vcs="Git" />
+  </component>
+</project>
